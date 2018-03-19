@@ -1,0 +1,4 @@
+1 Tolga Karahan 1000,50
+2 Leyla Karahan 1540,75
+3 Birtan Karahan 3000,00
+4 Cristiano Ronaldo 1000000,00
