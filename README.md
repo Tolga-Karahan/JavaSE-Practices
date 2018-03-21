@@ -1,3 +1,3 @@
 # JavaSE-Practices
-Source: Java How to Program, Deitel__
-Bytecode files with .class extensions are deleted. You can obtain them with executing the source codes. __
+Source: Java How to Program, Deitel </br>
+Bytecode files with .class extensions are deleted. You can obtain them with executing the source codes. </br> 
